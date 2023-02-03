@@ -16,13 +16,27 @@
 # You new to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
 
-WEEK="00"
+WEEKS=(00 01 02 03 04 05 06 07 08 09 10 11)
 
-REC2="60914D29C01C81F1"
+function serialize_array() {
+        declare -n _array="${1}" _str="${2}" # _array, _str => local reference vars
+        local IFS="${3:-$'\x01'}"
+        # shellcheck disable=SC2034 # Reference vars assumed used by caller
+        _str="${_array[*]}" # * => join on IFS
+}
+
+REC2="6B8C635D2D20BB10"
 REC1="63FB12B215403B20"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 RESDIR="$HOME/SP_RESULT/"
+
+if command -v fzf &> /dev/null ; then
+    serialize_array WEEKS WEEKS_SERIALIZED $'\n'
+    WEEK=$(echo "$WEEKS_SERIALIZED" | fzf)
+else
+    WEEK="00"  # HARD CODE THIS IF NOT USING FZF
+fi
 
 [ -d $RESDIR ] || mkdir -p $RESDIR
 pushd $RESDIR
