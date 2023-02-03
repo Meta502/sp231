@@ -24,6 +24,16 @@ fi
 echo
 read -p "Enter Time Allocated: " LOG_TIME
 read -p "Enter Log Message: " LOG_MESSAGE
-echo "ZCZC ${LOG_WEEK} ${LOG_TIME} ${LOG_CODE} ${LOG_MESSAGE}" >> TXT/mylog.txt
-echo "==== UPDATED ZCZC LOG ===="
-cat TXT/mylog.txt
+echo
+
+LOG_LINE="ZCZC ${LOG_WEEK} ${LOG_TIME} ${LOG_CODE} ${LOG_MESSAGE}"
+
+echo "==== LOG TO BE ADDED ===="
+echo $LOG_LINE
+
+read -p 'Commit Log? (y/n)' yn
+if [ "$yn" == "y" ]; then
+    echo $LOG_LINE >> TXT/mylog.txt
+    echo "==== UPDATED ZCZC LOG ===="
+    cat TXT/mylog.txt
+fi
