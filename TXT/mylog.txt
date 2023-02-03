@@ -7,3 +7,4 @@ ZCZC W00 15 L21 Create pre-commit hook to automatically execute myscript.sh
 ZCZC W00 45 L24 Create fzf script for adding new log entries
 ZCZC W00 15 L24 Fix minor issue with ZCZC log script
 ZCZC W00 15 L24 Add confirmation prompt to ZCZC logger script
+ZCZC W00 300 L84 Turu :D
