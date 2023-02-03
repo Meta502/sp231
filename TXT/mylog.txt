@@ -4,3 +4,4 @@
 ZCZC W00 30 L10 Setup GitHub Repository for Systems Programming Even 22/23
 ZCZC W00 90 L10 Setup VirtualBox Guest 
 ZCZC W00 15 L21 Create pre-commit hook to automatically execute myscript.sh
+ZCZC W00 45 L24 Create fzf script for adding new log entries
