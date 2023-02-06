@@ -10,3 +10,5 @@ ZCZC W00 15 L24 Add confirmation prompt to ZCZC logger script
 ZCZC W00 300 L84 Turu :D
 ZCZC W00 120 L10 Finish W00 Reading Materials
 ZCZC W00 10 L24 Create bash_aliases for more efficient SP workflow
+ZCZC W00 50 L24 Add pushd and popd to logging alias
+ZCZC W00 100 L02 First meeting at Room 2306
