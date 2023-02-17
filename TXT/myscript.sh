@@ -25,7 +25,7 @@ function serialize_array() {
         _str="${_array[*]}" # * => join on IFS
 }
 
-REC2="6B8C635D2D20BB10"
+REC2="6B8C635D2D20BB100C9C5092F3077ECF2B0B6169"
 REC1="63FB12B215403B20"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
