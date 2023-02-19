@@ -16,3 +16,4 @@ ZCZC W01 30 L11 Prepare folder and edit myscript.sh
 ZCZC W01 60 L12 Compile kernel
 ZCZC W01 30 L11 Compile TLPI
 ZCZC W01 120 L06 Read more about kernel build configuration
+ZCZC W01 15 L12 Alter linux config name
