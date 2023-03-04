@@ -21,3 +21,5 @@ ZCZC W02 15 L11 Setup SP LFS scripts
 ZCZC W02 90 L12 Finish LFS Chapter 1 to 5
 ZCZC W02 120 L13 Finish LFS Chapter 6 to 7
 ZCZC W02 100 L06 Read up additional information on LFS related
+ZCZC W03 120 L11 Read about TLPI
+ZCZC W03 30 L12 Compile kernel 6.2.2
