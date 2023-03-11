@@ -25,3 +25,7 @@ ZCZC W03 120 L11 Read about TLPI
 ZCZC W03 30 L12 Compile kernel 6.2.2
 ZCZC W03 60 L13 Try out FUSE demos
 ZCZC W03 15 L14 Ran W03 scripts
+ZCZC W04 120 L11 Read required reading materials for W04 TLPI
+ZCZC W04 15 L12 Download W04 script and install
+ZCZC W04 45 L13 Create W04 script in sharesp231 repo
+ZCZC W04 60 L06 Read about getopt and argument handling in C
