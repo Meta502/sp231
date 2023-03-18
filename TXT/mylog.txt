@@ -29,3 +29,6 @@ ZCZC W04 120 L11 Read required reading materials for W04 TLPI
 ZCZC W04 15 L12 Download W04 script and install
 ZCZC W04 45 L13 Create W04 script in sharesp231 repo
 ZCZC W04 60 L06 Read about getopt and argument handling in C
+ZCZC W05 120 L11 Complete required reading materials about automake, autoconf, aclocal, autoheader
+ZCZC W05 15 L12 Install WEEK05 scripts
+ZCZC W05 90 L13 Implement T05-WEEK assignment (sorry I did not come to class for this sir :( )
