@@ -34,3 +34,4 @@ ZCZC W05 15 L12 Install WEEK05 scripts
 ZCZC W05 90 L13 Implement T05-WEEK assignment (sorry I did not come to class for this sir :( )
 ZCZC W06 120 L11 Finish required readings for W06
 ZCZC W06 15 L12 Execute W06 scripts
+ZCZC W06 60 L13 Write Boxing/Unboxing scripts for W06
