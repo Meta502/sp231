@@ -32,3 +32,5 @@ ZCZC W04 60 L06 Read about getopt and argument handling in C
 ZCZC W05 120 L11 Complete required reading materials about automake, autoconf, aclocal, autoheader
 ZCZC W05 15 L12 Install WEEK05 scripts
 ZCZC W05 90 L13 Implement T05-WEEK assignment (sorry I did not come to class for this sir :( )
+ZCZC W06 120 L11 Finish required readings for W06
+ZCZC W06 15 L12 Execute W06 scripts
