@@ -35,3 +35,7 @@ ZCZC W05 90 L13 Implement T05-WEEK assignment (sorry I did not come to class for
 ZCZC W06 120 L11 Finish required readings for W06
 ZCZC W06 15 L12 Execute W06 scripts
 ZCZC W06 60 L13 Write Boxing/Unboxing scripts for W06
+ZCZC W07 120 L11 Finish required readings
+ZCZC W07 15 L12 Compiled latest linux kernel
+ZCZC W07 15 L13 Dwonload and run scripts
+ZCZC W07 200 L14 Finish SYNC assignment
