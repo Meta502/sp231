@@ -39,3 +39,6 @@ ZCZC W07 120 L11 Finish required readings
 ZCZC W07 15 L12 Compiled latest linux kernel
 ZCZC W07 15 L13 Dwonload and run scripts
 ZCZC W07 200 L14 Finish SYNC assignment
+ZCZC W08 200 L11 Finish required kernel readings for W08
+ZCZC W08 15 L12 Install W08 scripts
+ZCZC W08 120 L13 Finish kernel module assignments
