@@ -42,3 +42,7 @@ ZCZC W07 200 L14 Finish SYNC assignment
 ZCZC W08 200 L11 Finish required kernel readings for W08
 ZCZC W08 15 L12 Install W08 scripts
 ZCZC W08 120 L13 Finish kernel module assignments
+ZCZC W09 120 L11 Finish required readings
+ZCZC W09 15 L12 Download and run scripts
+ZCZC W09 200 L13 Finish module assignments
+
